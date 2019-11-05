@@ -7,7 +7,7 @@ Scrapy spider of the Federal Reserve webpage (https://www.federalreserve.gov/mon
 
 
 #### all_names:
-Juypter notebook of the data cleaning process of the fed_mins.csv. Output creates a csv file to create a Tableau dashboard. 
+Juypter notebook of the data cleaning process of the fed_mins.csv. Output creates a csv file to create a [Tableau dashboard](https://public.tableau.com/profile/richy.castellanos#!/vizhome/shared/368GSW29W). 
 
 
 #### fed_mins:
